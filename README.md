@@ -1,5 +1,7 @@
 # 👋 ¡Hola, soy Dylan!  
 
+![github-header-image-en]([./images/header_en.png](https://res.cloudinary.com/dylansdev/image/upload/v1737342995/DYLANSDEV_1_cz375c.gif))
+
 Soy un estudiante apasionado por el desarrollo de software y la tecnología, con un enfoque en sistemas automatizados e ingeniería. Me gusta combinar lógica, creatividad y un toque de curiosidad para crear soluciones que funcionen y sean innovadoras.  
 
 ---
@@ -50,7 +52,7 @@ Soy un estudiante apasionado por el desarrollo de software y la tecnología, con
 
 ---
 
-> 💭 *"El desarrollo personal y profesional es un camino, no un destino. Sigo construyendo mi mejor versión cada día."*  
+> 💭 *"El éxito no se mide por lo que logras, sino por los obstáculos que superas." – Booker T. Washington*  
 
 
 <!---
