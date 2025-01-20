@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Dylan!  
 
-![github-header-image-en]([https://res.cloudinary.com/dylansdev/image/upload/v1737342995/DYLANSDEV_1_cz375c.gif](https://www.canva.com/design/DAGcso7aa_c/2qepSnDjqjW04VcR4VcpTw/watch?utm_content=DAGcso7aa_c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62c780762e))
+![github-header-image-en](https://www.canva.com/design/DAGcso7aa_c/2qepSnDjqjW04VcR4VcpTw/watch?utm_content=DAGcso7aa_c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62c780762e)
 
 Soy un estudiante apasionado por el desarrollo de software y la tecnología, con un enfoque en sistemas automatizados e ingeniería. Me gusta combinar lógica, creatividad y un toque de curiosidad para crear soluciones que funcionen y sean innovadoras.  
 
