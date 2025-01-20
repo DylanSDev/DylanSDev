@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Dylan!  
 
-![github-header-image-en]([./images/header_en.png](https://res.cloudinary.com/dylansdev/image/upload/v1737342995/DYLANSDEV_1_cz375c.gif))
+![github-header-image-en](https://res.cloudinary.com/dylansdev/image/upload/v1737342995/DYLANSDEV_1_cz375c.gif)
 
 Soy un estudiante apasionado por el desarrollo de software y la tecnología, con un enfoque en sistemas automatizados e ingeniería. Me gusta combinar lógica, creatividad y un toque de curiosidad para crear soluciones que funcionen y sean innovadoras.  
 
