@@ -14,15 +14,6 @@ Soy un estudiante apasionado por el desarrollo de software y la tecnología, con
 
 ---
 
-## 💡 Mis intereses:  
-
-- **👨‍💻 Desarrollo Full Stack:** Terminando mis pendientes, e indagando de manera autodidacta.
-- **📚 Intercambio de conocimiento:** Espero participar en un intercambio estudiantil en el exterior. 
-- **📖 Ciencia y tecnología:** Me encanta explorar temas profundos: arquitectura de computadores, inteligencia artificial y computación cuántica, son temas que me mueven el bocho.
-- **🎯 Crecimiento personal:** Diseñando una vida más estructurada y con metas claras.  
-
----
-
 ## 🔧 Tecnologías y herramientas:  
 
 - **Lenguajes:** JavaScript, HTML, CSS, C, C++, Java.  
@@ -30,6 +21,15 @@ Soy un estudiante apasionado por el desarrollo de software y la tecnología, con
 - **Bases de datos:** MySQL, MongoDB.
 - **Diseño:** Figma, Photoshop, Ilustrator.
 - **Otros:** Git, GitHub, técnicas de desarrollo ágil, análisis funcional.  
+
+---
+
+## 💡 Mis intereses:  
+
+- **👨‍💻 Desarrollo Full Stack:** Terminando mis pendientes, e indagando de manera autodidacta.
+- **📚 Intercambio de conocimiento:** Espero participar en un intercambio estudiantil en el exterior. 
+- **📖 Ciencia y tecnología:** Me encanta explorar temas profundos: arquitectura de computadores, inteligencia artificial y computación cuántica, son temas que me mueven el bocho.
+- **🎯 Crecimiento personal:** Diseñando una vida más estructurada y con metas claras.  
 
 ---
 
